@@ -1,2 +1,0 @@
-# Anushayadav
-AWS devops
