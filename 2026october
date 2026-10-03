@@ -1,0 +1,5 @@
+In my project, my Kubernetes responsibilities were mainly around application deployment and support. I used Kubernetes to deploy and manage application containers through Jenkins CI/CD pipelines.
+
+On a daily basis, I would check pod and deployment status, monitor whether the required replicas were running, check logs and events when there were issues, and troubleshoot problems such as CrashLoopBackOff or image-pull failures.
+
+I also performed basic Kubernetes operations like checking services, restarting deployments, checking rollout status, and making minor changes to deployment YAML files when required. For more complex cluster-level issues, I would coordinate with the Kubernetes or infrastructure team.
