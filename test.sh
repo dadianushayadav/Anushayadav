@@ -4,7 +4,7 @@
 <body style="background-color:powderblue;">
 
 <h1>AWS account</h1>
-<p>Regards Anusha</p>
+<p>Regards Anushaa</p>
 
 </body>
 </html>
