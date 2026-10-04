@@ -4,7 +4,7 @@
 <body style="background-color:powderblue;">
 
 <h1>AWS account devops</h1>
-<p>Regards Anushaa</p>
+<p>Regards Anushaaa</p>
 
 </body>
 </html>
